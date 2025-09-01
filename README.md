@@ -25,7 +25,7 @@ This repository contains the **Frontend (React + Tailwind CSS)** part of the pro
 - 🐍 FastAPI (Python Web Framework)
 - 🤖 NLP + ML (Drug Slang Detection Model)
 - 📦 Joblib, Scikit-learn, RapidFuzz
-- 
+
 ---
 
 ## ⚙️ Prerequisites
