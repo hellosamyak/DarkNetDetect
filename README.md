@@ -77,4 +77,4 @@ This tool is designed for educational and research purposes only. Please ensure 
 
 ## 📞 Contact
 
-For questions or support, please open an issue or contact [your-email@example.com]
+For questions or support, please open an issue or contact [jainsamyak0805@gmail.com]
