@@ -31,7 +31,7 @@ This repository contains the **Frontend (React + Tailwind CSS)** part of the pro
 ## ⚙️ Prerequisites
 Before running this project locally, make sure you have installed:
 - [Node.js](https://nodejs.org/) (>= 18.x recommended)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/)
 
 Check versions:
 ```bash
