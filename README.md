@@ -63,6 +63,12 @@ The application will be available at `http://localhost:3000`
 
 ---
 
+## 🔗 Related Repositories
+
+- **Frontend Repository**: [https://github.com/hellosamyak/backend-darknetdetect]
+
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
