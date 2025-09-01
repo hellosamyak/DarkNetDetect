@@ -33,7 +33,14 @@ Before running this project locally, make sure you have installed:
 - [Node.js](https://nodejs.org/) (>= 18.x recommended)
 - [npm](https://www.npmjs.com/)
 
-Check versions:
-```bash
-node -v
-npm -v
+## Setup instructions
+Follow these steps to set up and run the frontend locally:
+**1. Clone the repository**
+git clone https://github.com/<your-username>/<your-frontend-repo>.git
+cd <your-frontend-repo>
+
+**2. Install Dependencies**
+npm install
+
+**3. Run Development Server**
+npm run dev
