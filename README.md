@@ -65,7 +65,7 @@ The application will be available at `http://localhost:3000`
 
 ## 🔗 Related Repositories
 
-- **Frontend Repository**: [https://github.com/hellosamyak/backend-darknetdetect]
+- **Backend Repository**: [https://github.com/hellosamyak/backend-darknetdetect]
 
 ---
 
